@@ -1,5 +1,6 @@
 name: dynamic_nav_scaffold
 description: "Add a dynamic widget that switches between navigation rail and navbar according to platform"
+repository: "https://github.com/SamerAlhaswe/dynamic_nav_scaffold"
 publish_to: 'none'
 version: 0.1.0
 
