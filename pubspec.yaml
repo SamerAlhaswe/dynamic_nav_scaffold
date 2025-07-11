@@ -1,0 +1,22 @@
+name: dynamic_nav_scaffold
+description: "Add a dynamic widget that switches between navigation rail and navbar according to platform"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  basic_utils: ^5.7.0
+  fluent_ui: ^4.10.0
+  fluentui_system_icons: ^1.1.270
+  flutter:
+    sdk: flutter
+  logger: ^2.5.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
